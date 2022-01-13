@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Find me around the web 🌍
-<a href="mailto:esmaengin91@gmail.com"><img width="40px" align="left" src="https://user-images.githubusercontent.com/47029631/149301068-c609c474-e924-41de-a3ef-27dafd135a20.png" /></a>
+<a href="mailto:esmaengin91@gmail.com"><img width="40px" align="left" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 
 [![linkedin](https://img.icons8.com/office/40/000000/linkedin.png)](https://www.linkedin.com/in/esmaengin/) 
 
