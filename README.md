@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Find me around the web 🌍
+<a href="mailto:esmaengin91@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/esmaengin/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<br />
+
+
 <!--
 **esmaengin/esmaengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
