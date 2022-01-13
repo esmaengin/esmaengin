@@ -2,8 +2,9 @@
 
 ### Find me around the web 🌍
 <a href="mailto:esmaengin91@gmail.com"><img width="40px" align="left" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-
+[![gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:esmaengin91@gmail.com)
 [![linkedin](https://img.icons8.com/office/40/000000/linkedin.png)](https://www.linkedin.com/in/esmaengin/) 
+[![twitter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/esmengn)
 
 <br />
 
