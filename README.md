@@ -2,7 +2,7 @@
 
 ### Find me around the web 🌍
 <a href="mailto:esmaengin91@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/esmaengin/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/esmaengin/"><img width="40px" align="left" src="https://user-images.githubusercontent.com/47029631/149299951-56ec1e0f-e979-48e5-934a-7b1019632476.png" /></a>
 
 <br />
 
