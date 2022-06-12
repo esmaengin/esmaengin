@@ -1,5 +1,6 @@
+<h1><img align: "center" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" height="200px"</h1>
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Esma</h1>
+<h2> Hi I'm Esma!</h2>
 
 ### Find me around the web 🌍
 [![gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:esmaengin91@gmail.com)
