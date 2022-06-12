@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Esma</h1>
+
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Esma</h1>
 
 ### Find me around the web 🌍
 [![gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:esmaengin91@gmail.com)
@@ -15,9 +16,7 @@
     <img height="140"
       <a href="https://github.com/esmaengin"><img src="https://github-readme-stats.vercel.app/api?username=esmaengin&count_private=true" height="165" /></a> <p> 
 
- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaengin&show_icons=true&locale=en&layout=compact" alt="esmaengin" />
-</p>
 
 </p>
   </p>
