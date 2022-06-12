@@ -15,7 +15,7 @@
     <img height="140"
       <a href="https://github.com/esmaengin"><img src="https://github-readme-stats.vercel.app/api?username=esmaengin&count_private=true" height="165" /></a> <p> 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaengin)
+  
 
 </p>
   </p>
