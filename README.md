@@ -8,9 +8,6 @@
 [![twitter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/esmengn)
 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fesmaengin.esmanegin%2Freadme)
-<br />
-
 <summary>🌱 <b>My Github Stats</b></summary>
   <br />
   <p align="left">
